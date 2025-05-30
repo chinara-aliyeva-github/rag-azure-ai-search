@@ -1,15 +1,2 @@
-fastapi
-uvicorn[standard]
-langchain
-langchain-community
-langchain-openai
-python-dotenv
-faiss-cpu
-openai
-docling 
-docling-core 
-pypdf
-azure-search-documents
-azure-identity
-python-multipart
-
+streamlit
+requests
